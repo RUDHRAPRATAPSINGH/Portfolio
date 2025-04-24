@@ -1,4 +1,4 @@
-# Anupriya Singh's Portfolio
+# Rudhra Pratap Singh's Portfolio
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a Computer Science student and data analyst.
 
@@ -13,8 +13,8 @@ This portfolio highlights my journey in technology, featuring:
 
 ## Skills Showcase
 
-- Technical Skills: Python, Java, C++, C, R Programming, SQL, HTML, CSS, DSA, Data Integration, Data Validation, Data Analysis
-- Tools & Platforms: Advanced Excel, Tableau, Power BI, NumPy
+- Technical Skills: Python, Java, C++, C, SQL, HTML, CSS, DSA, Data Integration, Data Validation, Data Analysis
+- Tools & Platforms: A Power BI
 - Soft Skills: Team Player, Communication, Flexibility, Creativity, Multitasking, Adaptability
 
 ## Technologies Used
